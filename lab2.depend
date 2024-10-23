@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1703168865 source:c:\users\acer\documents\esther progamming c\lab2\lab.c
+	"lab.h"
+
+1703050017 c:\users\acer\documents\esther progamming c\lab2\lab.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1703132485 source:c:\users\acer\documents\esther progamming c\lab2\main.c
+	"lab.h"
+
